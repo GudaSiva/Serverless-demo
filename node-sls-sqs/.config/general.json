@@ -1,0 +1,10 @@
+{
+    "local": {
+        "LOCAL_SERVER": "local",
+        "DB_CONNECTION": "mongodb",
+        "DB_PORT": 4000,
+        "DB_URI": "mongodb://localhost:27017/node-sls",
+        "AWS_ACCESS_KEY_ID_NAME": "AKIAXQCPXZGH2XO3QXPM",
+        "AWS_SECRET_ACCESS_KEY_NAME": "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"
+      }
+}
